@@ -1,0 +1,6 @@
+C:\TextMatch\TextMatch\bin\Debug\TextMatch.exe.config
+C:\TextMatch\TextMatch\obj\Debug\TextMatch.csprojResolveAssemblyReference.cache
+C:\TextMatch\TextMatch\bin\Debug\TextMatch.exe
+C:\TextMatch\TextMatch\bin\Debug\TextMatch.pdb
+C:\TextMatch\TextMatch\obj\Debug\TextMatch.exe
+C:\TextMatch\TextMatch\obj\Debug\TextMatch.pdb

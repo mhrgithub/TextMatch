@@ -1,0 +1,9 @@
+C:\TextMatch\TextMatch.Tests\obj\Debug\TextMatch.Tests.csprojResolveAssemblyReference.cache
+C:\TextMatch\TextMatch.Tests\bin\Debug\TextMatch.Tests.dll
+C:\TextMatch\TextMatch.Tests\bin\Debug\TextMatch.Tests.pdb
+C:\TextMatch\TextMatch.Tests\bin\Debug\nunit.framework.dll
+C:\TextMatch\TextMatch.Tests\bin\Debug\TextMatch.exe
+C:\TextMatch\TextMatch.Tests\bin\Debug\TextMatch.pdb
+C:\TextMatch\TextMatch.Tests\bin\Debug\nunit.framework.xml
+C:\TextMatch\TextMatch.Tests\obj\Debug\TextMatch.Tests.dll
+C:\TextMatch\TextMatch.Tests\obj\Debug\TextMatch.Tests.pdb
