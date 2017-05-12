@@ -1,1 +1,0 @@
-This a sample solution to the problem of finding subtexts inside a long text without using any libraries in C#
